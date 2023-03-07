@@ -6,7 +6,9 @@
 - ⚡ Fun fact: I love running!
 
 <details>
+  
   <summary>:zap: GitHub Stats</summary>
+  
   
 [![Xinyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccxinyuu&hide=stars,contribs&repo=github-readme-stats&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
