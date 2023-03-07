@@ -9,4 +9,4 @@
 [![Xinyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccxinyuu&hide=stars,contribs&repo=github-readme-stats&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccxinyuu)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccxinyuu&count_private=true&layout=compact&hide_border=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
